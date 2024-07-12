@@ -4,5 +4,5 @@ Ce projet est une application web développée dans le cadre d'une semaine d'app
 
 ## Comment lancer les scripts
 ### Clonez ce dépôt sur votre machine locale :
-
+git clone https://github.com/Traasko/NoSQL_Immo.git
 
