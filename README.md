@@ -1,4 +1,5 @@
-# NoSQL_IMMO
+# Projet Immo
+
 ## Description
 Ce projet est une application web développée dans le cadre d'une semaine d'apprentissage sur le thème suivante : NoSQL et Big Data.
 
