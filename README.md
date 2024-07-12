@@ -1,6 +1,6 @@
 # NoSQL_Immo
 ## Comment lancer les scripts
-# Pour lancer les scripts de la WebApp, suivez ces étapes :
+### Pour lancer les scripts de la WebApp, suivez ces étapes :
 
 Installation des dépendances :
 
