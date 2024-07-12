@@ -12,3 +12,10 @@ cd front-end
 
 ### Naviguez dans le répertoire du projet pour lancer le back
 cd back-end
+
+### Lancez l'application :
+npm start
+
+### Lien du Trello :
+Vous pouvez consulter l'avancement du projet et la répartition des tâches sur notre Trello à l'adresse suivante : [Lien vers votre tableau Trello](https://trello.com/b/5e6ie0D5/nosql)
+
