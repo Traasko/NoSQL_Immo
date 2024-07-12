@@ -1,0 +1,19 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "Cette application est une API RESTful construite en utilisant Node.js avec Express et MongoDB. L'objectif principal de cette API est de permettre la gestion complète des produits. Les opérations CRUD (Create, Read, Update, Delete) permettent aux utilisateurs de créer, récupérer, mettre à jour et supprimer des produits dans une base de données MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2",
+    "node": "^18.20.4"
+  }
+}
