@@ -1,5 +1,7 @@
-# NoSQL_Immo
-## Comment lancer les scripts
+# NoSQL_IMMO
+## Description
+Ce projet est une application web développée dans le cadre d'une semaine de cour sur le thématique suivante : NoSQL et Big Data.
+
 ### Pour lancer les scripts de la WebApp, suivez ces étapes :
 
 Installation des dépendances :
