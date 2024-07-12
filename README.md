@@ -2,7 +2,7 @@
 ## Description
 Ce projet est une application web développée dans le cadre d'une semaine de cour sur le thématique suivante : NoSQL et Big Data.
 
-### Pour lancer les scripts de la WebApp, suivez ces étapes :
+### Comment lancer les scripts
 
 Installation des dépendances :
 
