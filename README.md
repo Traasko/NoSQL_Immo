@@ -20,8 +20,8 @@ npm start
 ### Lien du Trello :
 Vous pouvez consulter l'avancement du projet et la répartition des tâches sur notre Trello à l'adresse suivante : [Lien vers votre tableau Trello](https://trello.com/b/5e6ie0D5/nosql)
 
-### Membres ayant travailler sur le projet :
-Thomas YALAP
+### Membres :
+# Thomas YALAP
 Benjamin AMZZOUGH
 Chouaib GHODHBANI
 Mamadou Oury BALDE
